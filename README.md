@@ -1,0 +1,2 @@
+# Amazon-Klonu
+Amazon Klon
