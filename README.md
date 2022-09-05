@@ -1,4 +1,4 @@
-# amazona
+# Amazon Klon
 
 ## Running locally
 
@@ -21,7 +21,7 @@ PAYPAL_CLIENT_ID=AeFldJzG2lLp-xz8F3KeE83boyLZr7R3Py6lUF-d1dvKdSDQU1amUNqib5eIF49
 6. `npm start`
 
 
-## Technologies used
+## Kullanılınan Yazılımlar
 
 1. Frontend
 1. `Reactjs`
